@@ -1,29 +1,17 @@
 {
   "version": 1,
   "schema": "faisy-video-editor-approvals-v1",
-  "updated_at": "2026-06-19T14:16:05.399565Z",
+  "updated_at": "2026-06-19T15:17:28.336866Z",
   "licenses": [
     {
       "id": 1,
-      "key_plain": "KBGG-6QPQ-PVME-Z2G4",
-      "key_hash": "dbd53906e6701e202fca26aefa77952b24396c0c88bf75c2387ee5439f05259b",
-      "fingerprint_hash": "d0a846f65839570b984965e28bdbd247db3c5772ba7e4f2679cf4cb6e86527eb",
-      "user_name": "fsypcs",
-      "label": "",
+      "key_plain": "ZSWK-J8LA-2GA3-6DGS",
+      "key_hash": "fe800a6493fc96cdca43f7ca03d7ed956acbec268c2b178be4a274aac9b3443f",
+      "fingerprint_hash": "dc49d80101f437980193daad40f2e88cb45bab377ecc1e48c4c80e235a1b8eea",
+      "user_name": "Test User",
+      "label": "smoke-test",
       "status": "active",
-      "issued_at": "2026-06-19T11:51:54.404025Z",
-      "expiry": null,
-      "max_devices": 1
-    },
-    {
-      "id": 2,
-      "key_plain": "B2FC-5VEK-EBXC-TYE8",
-      "key_hash": "e45f9fe4a73a631b057ad8c12fbab3b3ed9df63e2d4f863df316eaacb76bf04c",
-      "fingerprint_hash": "30e7c8e9550ea800937385c0c5c386ea2dadd4bdafd03d1b4cc4fbe54d0c89d2",
-      "user_name": "uzamkhan",
-      "label": "",
-      "status": "active",
-      "issued_at": "2026-06-19T14:16:05.399565Z",
+      "issued_at": "2026-06-19T15:17:28.336898Z",
       "expiry": null,
       "max_devices": 1
     }
