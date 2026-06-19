@@ -1,19 +1,6 @@
 {
   "version": 1,
   "schema": "faisy-video-editor-approvals-v1",
-  "updated_at": "2026-06-19T15:35:46.500148Z",
-  "licenses": [
-    {
-      "id": 1,
-      "key_plain": "QAXS-3JF4-USCQ-RD2R",
-      "key_hash": "ff4f9958bed7b3d8c91ce11e9cc2db684423537262337433bf4290481a48adec",
-      "fingerprint_hash": "dc49d80101f437980193daad40f2e88cb45bab377ecc1e48c4c80e235a1b8eea",
-      "user_name": "Test",
-      "label": "v3-test",
-      "status": "active",
-      "issued_at": "2026-06-19T15:35:46.500191Z",
-      "expiry": null,
-      "max_devices": 1
-    }
-  ]
+  "updated_at": null,
+  "licenses": []
 }
