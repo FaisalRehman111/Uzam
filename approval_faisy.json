@@ -1,19 +1,6 @@
 {
   "version": 1,
   "schema": "faisy-video-editor-approvals-v1",
-  "updated_at": "2026-06-19T15:17:28.336866Z",
-  "licenses": [
-    {
-      "id": 1,
-      "key_plain": "ZSWK-J8LA-2GA3-6DGS",
-      "key_hash": "fe800a6493fc96cdca43f7ca03d7ed956acbec268c2b178be4a274aac9b3443f",
-      "fingerprint_hash": "dc49d80101f437980193daad40f2e88cb45bab377ecc1e48c4c80e235a1b8eea",
-      "user_name": "Test User",
-      "label": "smoke-test",
-      "status": "active",
-      "issued_at": "2026-06-19T15:17:28.336898Z",
-      "expiry": null,
-      "max_devices": 1
-    }
-  ]
+  "updated_at": null,
+  "licenses": []
 }
