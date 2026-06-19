@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "faisy-video-editor-approvals-v1",
-  "updated_at": "2026-06-19T10:50:01.817491Z",
+  "updated_at": "2026-06-19T10:56:16.155738Z",
   "licenses": [
     {
       "id": 1,
@@ -10,7 +10,7 @@
       "fingerprint_hash": "d0a846f65839570b984965e28bdbd247db3c5772ba7e4f2679cf4cb6e86527eb",
       "user_name": "mypc",
       "label": "1",
-      "status": "active",
+      "status": "revoked",
       "issued_at": "2026-06-19T10:50:01.817491Z",
       "expiry": null,
       "max_devices": 1
