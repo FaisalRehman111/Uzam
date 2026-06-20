@@ -26,6 +26,18 @@
       "issued_at": "2026-06-19T16:48:39.275676Z",
       "expiry": null,
       "max_devices": 1
+    },
+    {
+      "id": 999,
+      "key_plain": "TEST-XXXX-YYYY-ZZZZ",
+      "key_hash": "39b957339e8e677d18c9c841ad85d3091815405b0a9d0550f3d3aadb08c98c9b",
+      "fingerprint_hash": "9ac6127f1feec0451ad4716fad8744bbf81183f9e4261143acf2794024e44528",
+      "user_name": "Screenshot Test",
+      "label": "smoke-screenshot",
+      "status": "active",
+      "issued_at": "2026-06-20T03:50:09.228425Z",
+      "expiry": null,
+      "max_devices": 1
     }
   ]
 }
