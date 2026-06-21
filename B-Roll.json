@@ -1,6 +1,18 @@
 {
   "schema_version": "1.0",
   "tool": "B-Roll Studio",
-  "last_updated": "2026-06-21T07:32:35",
-  "licenses": {}
+  "last_updated": "2026-06-21T09:22:52",
+  "licenses": {
+    "B-roll-9db64bc5-49bb-4778-aabc-e347ccea689a": {
+      "status": "approved",
+      "machine_id": "",
+      "machine_name": "",
+      "requested_at": "2026-06-21T09:22:52",
+      "approved_at": "2026-06-21T09:22:52",
+      "expires_at": "2099-12-31",
+      "customer_name": "fsy",
+      "customer_contact": "",
+      "notes": ""
+    }
+  }
 }
