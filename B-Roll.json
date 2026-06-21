@@ -1,18 +1,6 @@
 {
   "schema_version": "1.0",
   "tool": "B-Roll Studio",
-  "last_updated": "2026-06-21T07:32:33",
-  "licenses": {
-    "B-roll-a717952a-cd77-419f-893f-d03a68e4d55e": {
-      "status": "approved",
-      "machine_id": "",
-      "machine_name": "",
-      "requested_at": "2026-06-21T07:32:28",
-      "approved_at": "2026-06-21T07:32:28",
-      "expires_at": "2026-12-31",
-      "customer_name": "VIP",
-      "customer_contact": "0321xxxxxxx",
-      "notes": ""
-    }
-  }
+  "last_updated": "2026-06-21T07:32:35",
+  "licenses": {}
 }
