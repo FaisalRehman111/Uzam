@@ -1,19 +1,8 @@
 {
   "schema_version": "1.0",
   "tool": "B-Roll Studio",
-  "last_updated": "2026-06-21T07:32:28",
+  "last_updated": "2026-06-21T07:32:33",
   "licenses": {
-    "B-roll-9b06a719-3ada-4412-891b-e30f40731b07": {
-      "status": "approved",
-      "machine_id": "05363db7932e1d4ee7152080",
-      "machine_name": "Test-PC",
-      "requested_at": "2026-06-21T07:31:09",
-      "approved_at": "2026-06-21T07:32:23",
-      "expires_at": "2027-12-31",
-      "customer_name": "Test User",
-      "customer_contact": "03001234567",
-      "notes": ""
-    },
     "B-roll-a717952a-cd77-419f-893f-d03a68e4d55e": {
       "status": "approved",
       "machine_id": "",
