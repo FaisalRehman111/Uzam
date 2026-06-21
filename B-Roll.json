@@ -1,6 +1,18 @@
 {
   "schema_version": "1.0",
   "tool": "B-Roll Studio",
-  "last_updated": "",
-  "licenses": {}
+  "last_updated": "2026-06-21T07:31:09",
+  "licenses": {
+    "B-roll-9b06a719-3ada-4412-891b-e30f40731b07": {
+      "status": "pending",
+      "machine_id": "05363db7932e1d4ee7152080",
+      "machine_name": "Test-PC",
+      "requested_at": "2026-06-21T07:31:09",
+      "approved_at": "",
+      "expires_at": "",
+      "customer_name": "Test User",
+      "customer_contact": "03001234567",
+      "notes": ""
+    }
+  }
 }
