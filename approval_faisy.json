@@ -4,18 +4,6 @@
   "updated_at": "2026-06-22T12:05:07.286716Z",
   "licenses": [
     {
-      "id": 1,
-      "key_plain": "UZAM-FLIP-2026-TEST",
-      "key_hash": "618380676f7593bf7b3b455ac33575839516d4faa5f90bb2cca08b36c0265924",
-      "fingerprint_hash": "1a25302057e1fa2567d92c24f986c4d9ebf3d28eade0f88072aec67f6767e8b5",
-      "user_name": "SmokeTest",
-      "label": "flip-feature",
-      "status": "active",
-      "issued_at": "2026-06-22T09:57:50.915944Z",
-      "expiry": null,
-      "max_devices": 1
-    },
-    {
       "id": 2,
       "key_plain": "V2ZB-4MMU-W9FE-NM7G",
       "key_hash": "031a552bac369abaa4995294dc7a184f4143e127fa990e9fc055936a9d6090e2",
@@ -38,6 +26,15 @@
       "issued_at": "2026-06-22T12:05:07.285689Z",
       "expiry": null,
       "max_devices": 1
+    },
+    {
+      "key_hash": "618380676f7593bf7b3b455ac33575839516d4faa5f90bb2cca08b36c0265924",
+      "fingerprint_hash": "82ad2c8d577e243cccdcf22faed0c4a46435e09a2e76f6ead2b1d8ac195362ba",
+      "user_name": "SmokeTest",
+      "label": "flip-feature",
+      "status": "active",
+      "expiry": null,
+      "issued_at": "2026-06-22T15:30:00Z"
     }
   ]
 }
