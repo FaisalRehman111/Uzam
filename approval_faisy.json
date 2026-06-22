@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "faisy-video-editor-approvals-v1",
-  "updated_at": "2026-06-22T09:57:50.915863Z",
+  "updated_at": "2026-06-22T11:09:40.397681Z",
   "licenses": [
     {
       "id": 1,
@@ -12,6 +12,18 @@
       "label": "flip-feature",
       "status": "active",
       "issued_at": "2026-06-22T09:57:50.915944Z",
+      "expiry": null,
+      "max_devices": 1
+    },
+    {
+      "id": 2,
+      "key_plain": "V2ZB-4MMU-W9FE-NM7G",
+      "key_hash": "031a552bac369abaa4995294dc7a184f4143e127fa990e9fc055936a9d6090e2",
+      "fingerprint_hash": "30e7c8e9550ea800937385c0c5c386ea2dadd4bdafd03d1b4cc4fbe54d0c89d2",
+      "user_name": "uzam",
+      "label": "",
+      "status": "active",
+      "issued_at": "2026-06-22T11:09:40.397681Z",
       "expiry": null,
       "max_devices": 1
     }
