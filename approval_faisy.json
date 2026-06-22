@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "faisy-video-editor-approvals-v1",
-  "updated_at": "2026-06-22T11:09:40.397681Z",
+  "updated_at": "2026-06-22T12:05:07.286716Z",
   "licenses": [
     {
       "id": 1,
@@ -24,6 +24,18 @@
       "label": "",
       "status": "active",
       "issued_at": "2026-06-22T11:09:40.397681Z",
+      "expiry": null,
+      "max_devices": 1
+    },
+    {
+      "id": 3,
+      "key_plain": "CJHA-NFET-EA2U-LR3K",
+      "key_hash": "7017482fe9e9a8d61cda10d6c675ead3c497aa25560c9ef6f19617a2cc865086",
+      "fingerprint_hash": "d0a846f65839570b984965e28bdbd247db3c5772ba7e4f2679cf4cb6e86527eb",
+      "user_name": "user",
+      "label": "",
+      "status": "active",
+      "issued_at": "2026-06-22T12:05:07.285689Z",
       "expiry": null,
       "max_devices": 1
     }
