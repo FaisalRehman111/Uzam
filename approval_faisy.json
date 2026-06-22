@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "faisy-video-editor-approvals-v1",
-  "updated_at": "2026-06-22T07:04:21.228352Z",
+  "updated_at": "2026-06-22T07:13:37.647759Z",
   "licenses": [
     {
       "id": 1,
@@ -24,6 +24,18 @@
       "label": "",
       "status": "active",
       "issued_at": "2026-06-22T07:04:21.228352Z",
+      "expiry": null,
+      "max_devices": 1
+    },
+    {
+      "id": 3,
+      "key_plain": "DHUS-HDY8-KYPW-XF3N",
+      "key_hash": "2a530fc380f369b4b5c5eb0e063d136d5da25322d25a81fc7a747587f2c7f2a5",
+      "fingerprint_hash": "30e7c8e9550ea800937385c0c5c386ea2dadd4bdafd03d1b4cc4fbe54d0c89d2",
+      "user_name": "test",
+      "label": "",
+      "status": "active",
+      "issued_at": "2026-06-22T07:13:37.647759Z",
       "expiry": null,
       "max_devices": 1
     }
