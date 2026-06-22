@@ -12,5 +12,19 @@
     "unusedExpireDays": 30,
     "note": "fsy",
     "status": "unused"
+  },
+  {
+    "key": "YTPRO-96YU-EW7E-8ULW-HR5D",
+    "plan": "1m",
+    "days": 30,
+    "prefix": "YTPRO",
+    "createdAt": "2026-06-22T09:22:49.586Z",
+    "activatedAt": null,
+    "expiresAt": null,
+    "deviceId": null,
+    "deviceLock": true,
+    "unusedExpireDays": 30,
+    "note": "fsy2",
+    "status": "unused"
   }
 ]
