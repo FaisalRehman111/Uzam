@@ -1,33 +1,5 @@
 [
   {
-    "key": "YTPRO-MEW4-TT3S-DSAS-ST4W",
-    "plan": "life",
-    "days": 36500,
-    "prefix": "YTPRO",
-    "createdAt": "2026-06-22T08:54:36.827Z",
-    "activatedAt": null,
-    "expiresAt": null,
-    "deviceId": null,
-    "deviceLock": true,
-    "unusedExpireDays": 60,
-    "note": "fsy",
-    "status": "unused"
-  },
-  {
-    "key": "YTPRO-VQ69-6N8A-M4P2-YY6X",
-    "plan": "life",
-    "days": 36500,
-    "prefix": "YTPRO",
-    "createdAt": "2026-06-22T08:54:36.827Z",
-    "activatedAt": null,
-    "expiresAt": null,
-    "deviceId": null,
-    "deviceLock": true,
-    "unusedExpireDays": 60,
-    "note": "fsy",
-    "status": "unused"
-  },
-  {
     "key": "YTPRO-R4NK-H7LL-P445-KXQL",
     "plan": "life",
     "days": 36500,
