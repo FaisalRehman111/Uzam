@@ -1,53 +1,17 @@
 {
   "version": 1,
   "schema": "faisy-video-editor-approvals-v1",
-  "updated_at": "2026-06-22T07:15:49.829928Z",
+  "updated_at": "2026-06-22T09:57:50.915863Z",
   "licenses": [
     {
       "id": 1,
-      "key_plain": "UZAM-TEST-MODE-2026",
-      "key_hash": "c3b18410fa3533231d12f3e408418cc95c94921311b9445600b373e9a98ef2c5",
-      "fingerprint_hash": "348bed5374b7930aaaa1198298717d36fa8c69a1d7f8deafdf1ec01e7c22bd1f",
-      "user_name": "ScreenshotTest",
-      "label": "cutmode-test",
+      "key_plain": "UZAM-FLIP-2026-TEST",
+      "key_hash": "618380676f7593bf7b3b455ac33575839516d4faa5f90bb2cca08b36c0265924",
+      "fingerprint_hash": "1a25302057e1fa2567d92c24f986c4d9ebf3d28eade0f88072aec67f6767e8b5",
+      "user_name": "SmokeTest",
+      "label": "flip-feature",
       "status": "active",
-      "issued_at": "2026-06-22T06:40:01.803893Z",
-      "expiry": null,
-      "max_devices": 1
-    },
-    {
-      "id": 2,
-      "key_plain": "GCMV-QHXW-4CZL-VTPR",
-      "key_hash": "9962763ecf68fd0cd3d13242cfb751959e9ac1196471c734d06586492b07cf8d",
-      "fingerprint_hash": "d0a846f65839570b984965e28bdbd247db3c5772ba7e4f2679cf4cb6e86527eb",
-      "user_name": "fstest",
-      "label": "",
-      "status": "active",
-      "issued_at": "2026-06-22T07:04:21.228352Z",
-      "expiry": null,
-      "max_devices": 1
-    },
-    {
-      "id": 3,
-      "key_plain": "DHUS-HDY8-KYPW-XF3N",
-      "key_hash": "2a530fc380f369b4b5c5eb0e063d136d5da25322d25a81fc7a747587f2c7f2a5",
-      "fingerprint_hash": "30e7c8e9550ea800937385c0c5c386ea2dadd4bdafd03d1b4cc4fbe54d0c89d2",
-      "user_name": "test",
-      "label": "",
-      "status": "active",
-      "issued_at": "2026-06-22T07:13:37.647759Z",
-      "expiry": null,
-      "max_devices": 1
-    },
-    {
-      "id": 4,
-      "key_plain": "B2J8-M3V6-X2G2-3KXV",
-      "key_hash": "fc7576075ad6ed2e9b48a562b4224445d20f772913cc4800703e78d1719793f9",
-      "fingerprint_hash": "b8f82fd662206e6be267ba3bedf2ee0593e3a67546d74e7bb792ff69b7df2079",
-      "user_name": "sajuu",
-      "label": "",
-      "status": "active",
-      "issued_at": "2026-06-22T07:15:49.829928Z",
+      "issued_at": "2026-06-22T09:57:50.915944Z",
       "expiry": null,
       "max_devices": 1
     }
