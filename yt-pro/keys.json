@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "key": "YTPRO-TS6Z-4EM6-FLTR-HY77",
+    "plan": "1m",
+    "days": 30,
+    "prefix": "YTPRO",
+    "createdAt": "2026-06-22T09:21:15.111Z",
+    "activatedAt": null,
+    "expiresAt": null,
+    "deviceId": null,
+    "deviceLock": true,
+    "unusedExpireDays": 30,
+    "note": "fsy",
+    "status": "unused"
+  }
+]
