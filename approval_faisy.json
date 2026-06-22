@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "faisy-video-editor-approvals-v1",
-  "updated_at": "2026-06-20T03:27:15.162673Z",
+  "updated_at": "2026-06-22T05:19:24.086045Z",
   "licenses": [
     {
       "id": 1,
@@ -24,6 +24,18 @@
       "label": "",
       "status": "active",
       "issued_at": "2026-06-19T16:48:39.275676Z",
+      "expiry": null,
+      "max_devices": 1
+    },
+    {
+      "id": 3,
+      "key_plain": "F9MZ-6EJR-7V2R-DLPH",
+      "key_hash": "9081b1d1550941f982c95df768e640c3dbb67389ae849ba096b461cd3e87a26d",
+      "fingerprint_hash": "b8f82fd662206e6be267ba3bedf2ee0593e3a67546d74e7bb792ff69b7df2079",
+      "user_name": "sajuu",
+      "label": "",
+      "status": "active",
+      "issued_at": "2026-06-22T05:19:24.086045Z",
       "expiry": null,
       "max_devices": 1
     }
