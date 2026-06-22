@@ -1,19 +1,5 @@
 [
   {
-    "key": "YTPRO-HGJW-XSPV-QPTG-WBM7",
-    "plan": "life",
-    "days": 36500,
-    "prefix": "YTPRO",
-    "createdAt": "2026-06-22T08:54:36.824Z",
-    "activatedAt": null,
-    "expiresAt": null,
-    "deviceId": null,
-    "deviceLock": true,
-    "unusedExpireDays": 60,
-    "note": "fsy",
-    "status": "unused"
-  },
-  {
     "key": "YTPRO-EZVP-YTUA-AJ59-UV4R",
     "plan": "life",
     "days": 36500,
