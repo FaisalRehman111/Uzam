@@ -1,41 +1,17 @@
 {
   "version": 1,
   "schema": "faisy-video-editor-approvals-v1",
-  "updated_at": "2026-06-22T05:19:24.086045Z",
+  "updated_at": "2026-06-22T06:40:01.803771Z",
   "licenses": [
     {
       "id": 1,
-      "key_plain": "SGNT-9A8Z-ZHAF-EFGE",
-      "key_hash": "14efc3eae88de1328d03173d82a513d40dc95a5af38d7cbb40e416dc8f67ecc5",
-      "fingerprint_hash": "d0a846f65839570b984965e28bdbd247db3c5772ba7e4f2679cf4cb6e86527eb",
-      "user_name": "fsyyy",
-      "label": "",
+      "key_plain": "UZAM-TEST-MODE-2026",
+      "key_hash": "c3b18410fa3533231d12f3e408418cc95c94921311b9445600b373e9a98ef2c5",
+      "fingerprint_hash": "348bed5374b7930aaaa1198298717d36fa8c69a1d7f8deafdf1ec01e7c22bd1f",
+      "user_name": "ScreenshotTest",
+      "label": "cutmode-test",
       "status": "active",
-      "issued_at": "2026-06-19T16:03:54.481639Z",
-      "expiry": null,
-      "max_devices": 1
-    },
-    {
-      "id": 2,
-      "key_plain": "2UKU-9HR9-DMPN-2W8V",
-      "key_hash": "ede632317f38e1207912c5e97654df48a7c3debc947057537d42f55f083b1f8a",
-      "fingerprint_hash": "30e7c8e9550ea800937385c0c5c386ea2dadd4bdafd03d1b4cc4fbe54d0c89d2",
-      "user_name": "Uzam",
-      "label": "",
-      "status": "active",
-      "issued_at": "2026-06-19T16:48:39.275676Z",
-      "expiry": null,
-      "max_devices": 1
-    },
-    {
-      "id": 3,
-      "key_plain": "F9MZ-6EJR-7V2R-DLPH",
-      "key_hash": "9081b1d1550941f982c95df768e640c3dbb67389ae849ba096b461cd3e87a26d",
-      "fingerprint_hash": "b8f82fd662206e6be267ba3bedf2ee0593e3a67546d74e7bb792ff69b7df2079",
-      "user_name": "sajuu",
-      "label": "",
-      "status": "active",
-      "issued_at": "2026-06-22T05:19:24.086045Z",
+      "issued_at": "2026-06-22T06:40:01.803893Z",
       "expiry": null,
       "max_devices": 1
     }
