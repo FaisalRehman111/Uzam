@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "faisy-video-editor-approvals-v1",
-  "updated_at": "2026-06-23T06:42:31.114748Z",
+  "updated_at": "2026-06-23T06:42:34.658795Z",
   "licenses": [
     {
       "id": 2,
@@ -36,6 +36,18 @@
       "label": "",
       "status": "active",
       "issued_at": "2026-06-23T06:42:31.114748Z",
+      "expiry": null,
+      "max_devices": 1
+    },
+    {
+      "id": 5,
+      "key_plain": "8225-YH33-7STS-CLEY",
+      "key_hash": "dad7b96e4e4d239011a345cfd374ee038728b85c4c1293996cad1158768077c1",
+      "fingerprint_hash": "b8f82fd662206e6be267ba3bedf2ee0593e3a67546d74e7bb792ff69b7df2079",
+      "user_name": "",
+      "label": "",
+      "status": "active",
+      "issued_at": "2026-06-23T06:42:34.658795Z",
       "expiry": null,
       "max_devices": 1
     }
