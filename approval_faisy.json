@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "faisy-video-editor-approvals-v1",
-  "updated_at": "2026-06-22T12:05:07.286716Z",
+  "updated_at": "2026-06-23T06:42:31.114748Z",
   "licenses": [
     {
       "id": 2,
@@ -24,6 +24,18 @@
       "label": "",
       "status": "active",
       "issued_at": "2026-06-22T12:05:07.285689Z",
+      "expiry": null,
+      "max_devices": 1
+    },
+    {
+      "id": 4,
+      "key_plain": "N985-TV52-BH9C-PPQK",
+      "key_hash": "7c1a380051ef7a8a9a094d117e800cfc2cde3678a313e75d589d121264c69758",
+      "fingerprint_hash": "b8f82fd662206e6be267ba3bedf2ee0593e3a67546d74e7bb792ff69b7df2079",
+      "user_name": "",
+      "label": "",
+      "status": "active",
+      "issued_at": "2026-06-23T06:42:31.114748Z",
       "expiry": null,
       "max_devices": 1
     }
