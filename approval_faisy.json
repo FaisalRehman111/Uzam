@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "faisy-video-editor-approvals-v1",
-  "updated_at": "2026-06-23T06:42:34.658795Z",
+  "updated_at": "2026-07-01T00:31:04.578282Z",
   "licenses": [
     {
       "id": 2,
@@ -48,6 +48,18 @@
       "label": "",
       "status": "active",
       "issued_at": "2026-06-23T06:42:34.658795Z",
+      "expiry": null,
+      "max_devices": 1
+    },
+    {
+      "id": 6,
+      "key_plain": "UKLX-WCLG-BDR2-EH2X",
+      "key_hash": "0f087d722c9ccd59fea2da5dbe1be0d407ecd2cf56f98e26344d5b40203c7948",
+      "fingerprint_hash": "30e7c8e9550ea800937385c0c5c386ea2dadd4bdafd03d1b4cc4fbe54d0c89d2",
+      "user_name": "Uzam",
+      "label": "PC",
+      "status": "active",
+      "issued_at": "2026-07-01T00:31:04.578282Z",
       "expiry": null,
       "max_devices": 1
     }
